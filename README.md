@@ -5,7 +5,6 @@ LINK:https://todos-authentication.herokuapp.com
 
 
 # todo-authentication
-![Thumbnail](1.png)
 ![Thumbnail2](2.png)
 ![Thumbnail3](3.png)
 ![Thumbnail3](4.png)
