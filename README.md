@@ -2,6 +2,8 @@
 (Useing:Heroku)
 LINK:https://todos-authentication.herokuapp.com
 
+A todo App build in Reactjs with Authentication using Firebase. Todos are saved using Firestore.
+
 
 
 # todo-authentication
@@ -9,7 +11,7 @@ LINK:https://todos-authentication.herokuapp.com
 ![Thumbnail3](3.png)
 ![Thumbnail3](4.png)
 
-A todo App with Authentication using Firebase. Todos are saved using Firestore.
+
 
 ### Installing
 
